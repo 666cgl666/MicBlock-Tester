@@ -1,0 +1,7 @@
+{
+  "name": "MicBlock Tester",
+  "description": "A focused utility to occupy and simulate a blocked microphone state for testing app behavior.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
